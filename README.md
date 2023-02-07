@@ -2,7 +2,7 @@
 <div class="Introduction" align="center"> 
 <h1>Hi, its me, benmuhammed!<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
-<a href="https://benmuhammed.ga"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/984324022739284028"></a>
+<a href="https://benmuhammed.ga">
 <div class="about-me" align="left">
 
 I am from Iğdır. but i live in istanbul. 
