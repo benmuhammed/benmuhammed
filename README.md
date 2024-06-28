@@ -5,8 +5,7 @@
 <a href="https://benmuhammed.ga">
 <div class="about-me" align="left">
 
-I am from Iğdır. but i live in istanbul. 
-I am a beginner html css and javascript developer. I am interested in php and python languages.
+ I am a beginner html css and javascript developer. I am interested in php and python languages.
  
 My contact information: [knelailetisim@gmail.com](mailto:knelailetisim@gmail.com)
 
