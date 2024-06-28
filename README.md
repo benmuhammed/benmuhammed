@@ -9,7 +9,7 @@
  
 My contact information: [knelailetisim@gmail.com](mailto:knelailetisim@gmail.com)
 
- <h2> Github Stats </h2>
+ <center><h2> Github Stats </h2></center>
 <div class="stats" align="center"> 
 <a href="https://github.com/benmuhammed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=benmuhammed&show_icons=true&theme=vue-dark" alt="stats"/></a>
 <a href="https://benmuhammed.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=benmuhammed&theme=react](https://github-profile-trophy.vercel.app/?username=benmuhamed&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
