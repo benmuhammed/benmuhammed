@@ -1,16 +1,16 @@
-<img src="https://cdn.discordapp.com/attachments/988409361367957546/1072585247675388045/benmuhammed_dev.png" alt="Banner" align="center">
+<img src="https://imgur.com/a/VhDeNFO" alt="Banner" align="center">
 <div class="Introduction" align="center"> 
-<h1>Hi, its me, benmuhammed!<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
+<h1>Hi there, benmuhammed!<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
-<a href="https://benmuhammed.ga">
+<a href="https://muhammed.dev">
 <div class="about-me" align="left">
 
  I am a beginner html css and javascript developer. I am interested in php and python languages.
  
 My contact information: [knelailetisim@gmail.com](mailto:knelailetisim@gmail.com)
 
- <center><h2> Github Stats </h2></center>
-<div class="stats" align="center"> 
+<div class="stats" align="center">
+<h2> Github Stats </h2>
 <a href="https://github.com/benmuhammed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=benmuhammed&show_icons=true&theme=vue-dark" alt="stats"/></a>
 <a href="https://benmuhammed.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=benmuhammed&theme=react](https://github-profile-trophy.vercel.app/?username=benmuhamed&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
 <a href="https://benmuhammed.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=benmuhammed&theme=discord&column=7&no-frame=true"></a><br><br>
