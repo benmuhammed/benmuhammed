@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/iBOYoMx.png" alt="Banner" align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">, I'm benmuhammed</h1>
+<h1 align="center">Hi 👋, I'm benmuhammed</h1>
 <h3 align="center">A young developer, living in turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benmuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="benmuhammed" /> </p>
@@ -10,11 +10,12 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
+- 📫 How to reach me **knelailetisim@gmail.com**
+
 - ⚡ Fun fact **I think I have a humorous personality ehehe (umm i think i love unturned a little bit...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benmuhammed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
