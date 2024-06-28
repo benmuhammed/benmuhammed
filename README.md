@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/VhDeNFO" alt="Banner" align="center">
+<img src="https://i.imgur.com/iBOYoMx.png" alt="Banner" align="center">
 <div class="Introduction" align="center"> 
 <h1>Hi there, benmuhammed!<img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
